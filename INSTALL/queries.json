@@ -1,0 +1,3 @@
+{
+  "sqlcreateticket":"CREATE TABLE `9g8f3oXSJQ`.`ticket` ( `TicketId` INT(10) NOT NULL , `ClientEmail` VARCHAR(21) NOT NULL , `ClientName` VARCHAR(100) NOT NULL , `Title` VARCHAR(60) NOT NULL , `Description` VARCHAR(1000) NOT NULL , `Date` VARCHAR(10) NOT NULL , `Time` VARCHAR(10) NOT NULL , `Priority` VARCHAR(20) NOT NULL , `Status` VARCHAR(20) NOT NULL ) ENGINE = InnoDB;"
+}
